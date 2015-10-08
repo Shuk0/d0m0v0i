@@ -5,3 +5,4 @@
 2. [snappy ubuntu core](https://developer.ubuntu.com/en/snappy/) - linux-дистрибутив для умных устройств;
 3. [сборки](https://www.stdin.xyz/2015/06/14/snappy-ubuntu-core-for-odroid-c1/) snappy ubuntu core под аппаратную платформу odroid-c1;
 4. [OpenHAB](http://www.openhab.org/) - комбайн для программирования сценариев автоматизации и их исполнения на разных оконечных устройствах.
+[Инструкция](https://github.com/openhab/openhab/wiki/Ubuntu-Snappy) по установке OpenHAB на Snappy Ubuntu Core.
